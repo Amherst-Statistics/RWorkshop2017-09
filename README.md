@@ -4,9 +4,9 @@ The workshop is sponsored by the Holy Cross Department of Mathematics and Statis
 
 ## Overview
 
-Workshop on Teaching Statistics using R and RStudio 
-Nicholas Horton, Amherst College
-Saturday, September 9th: 9:30am-4:00pm
+#### Workshop on Teaching Statistics using R and RStudio 
+#### Nicholas Horton, Amherst College
+#### Saturday, September 9th: 9:30am-4:00pm
 
 R is a freely available language and environment for statistical computing and graphics that has become popular in academia and in many industries. This workshop will introduce participants to teaching applied statistics courses using computing in an integrated way. The presenter has been using R and RStudio to teach statistics to undergraduates at all levels for the last decade and will share his approach and favorite examples. Topics will include workflow in the RStudio environment, providing novices with a powerful but manageable set of tools, simple data wrangling, data visualization, and basic statistical inference using R. Much of this "Less Volume, More Creativity" approach will be facilitated using the mosaic package. The workshop is designed to be accessible to those with little or no experience with R and is intended to provide participants with skills, examples, and resources that they can use in their own teaching.
 
