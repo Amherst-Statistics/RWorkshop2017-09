@@ -14,18 +14,18 @@ INSTRUCTOR: Nicholas Horton is a Professor of Statistics at Amherst College, wit
 
 Location: Holy Cross, Worcester, MA 
 Fees: Registration includes computer/software access and materials. 
-• Non-Chapter Members - $50 
-• Boston ASA Chapter Members - $25 
-• K-12 and Two-Year College Teachers - $10 
-• Students - $10 
-• Holy Cross Faculty/Staff - Free 
+- Non-Chapter Members - $50 
+- Boston ASA Chapter Members - $25 
+- K-12 and Two-Year College Teachers - $10 
+- Students - $10 
+- Holy Cross Faculty/Staff - Free 
 
 REGISTRATION LINK TBD
 
 REGISTRATION 
-• Space is limited - You MUST pre-register by email to attend 
-• Registration is not complete until payment has been received 
-• REGISTRATION CLOSES THURSDAY, AUGUST 31st
+- Space is limited - You MUST pre-register by email to attend 
+- Registration is not complete until payment has been received 
+- REGISTRATION CLOSES THURSDAY, AUGUST 31st
 
 Please contact nhorton@amherst.edu for more information.
 
