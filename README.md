@@ -2,11 +2,44 @@
 
 The workshop is sponsored by the Holy Cross Department of Mathematics and Statistics and the Boston Chapter of the American Statistical Association.
 
+## Overview
+
+Workshop on Teaching Statistics using R and RStudio 
+Nicholas Horton, Amherst College
+Saturday, September 9th: 9:30am-4:00pm
+
+R is a freely available language and environment for statistical computing and graphics that has become popular in academia and in many industries. This workshop will introduce participants to teaching applied statistics courses using computing in an integrated way. The presenter has been using R and RStudio to teach statistics to undergraduates at all levels for the last decade and will share his approach and favorite examples. Topics will include workflow in the RStudio environment, providing novices with a powerful but manageable set of tools, simple data wrangling, data visualization, and basic statistical inference using R. Much of this "Less Volume, More Creativity" approach will be facilitated using the mosaic package. The workshop is designed to be accessible to those with little or no experience with R and is intended to provide participants with skills, examples, and resources that they can use in their own teaching.
+
+INSTRUCTOR: Nicholas Horton is a Professor of Statistics at Amherst College, with methodologic research interests in longitudinal regression models and missing data methods and applications in psychiatric epidemiology and substance abuse research. He received his doctorate in Biostatistics (with minors in Psychosocial Comorbidity and Theoretical Statistics) from the Harvard School of Public Health in 1999. Dr. Horton has co-authored more than 150 papers in the statistical methodology, behavioral research, and health services research literature, as well as a series of books on statistical computing and data science in R. He is an accredited statistician, a Fellow of the American Statistical Association, former member of the ASA Board of Directors, a member of the workgroup that revised the GAISE College Report, and past-chair of the ASA's Section on Statistical Education.
+
+Location: Holy Cross, Worcester, MA 
+Fees: Registration includes computer/software access and materials. 
+• Non-Chapter Members - $50 
+• Boston ASA Chapter Members - $25 
+• K-12 and Two-Year College Teachers - $10 
+• Students - $10 
+• Holy Cross Faculty/Staff - Free 
+
+REGISTRATION LINK TBD
+
+REGISTRATION 
+• Space is limited - You MUST pre-register by email to attend 
+• Registration is not complete until payment has been received 
+• REGISTRATION CLOSES THURSDAY, AUGUST 31st
+
+Please contact nhorton@amherst.edu for more information.
+
+
+
+## Registration
+
+To be updated in June, 2017
+
 ## Logistics
 
 ### Location
 
-TBD
+TBD at Holy Cross
 
 ### Parking
 
@@ -42,14 +75,16 @@ You will all receive login and password information for the shared RStudio serve
 
 ### Textbook related
 
+- http://mdsr-book.github.io/ (Modern Data Science with R)
 - https://cran.r-project.org/web/packages/mosaic/ (mosaic vignettes and textbooks)
-- http://www.amherst.edu/~nhorton/sdm4 (De Veaux, Velleman, and Bock Stats Data and Models)
-- http://www.amherst.edu/~nhorton/is4 (De Veaux, Velleman, and Bock Stats Intro Stats)
-- http://www.amherst.edu/~nhorton/ips6e (IPS 6th edition)
+- https://nhorton.people.amherst.edu/sdm4 (De Veaux, Velleman, and Bock Stats Data and Models)
+- https://nhorton.people.amherst.edu/is4 (De Veaux, Velleman, and Bock Stats Intro Stats)
+- https://nhorton.people.amherst.edu/ips6e (IPS 6th edition)
 
 ### General Stat Ed
 
-- http://www.amstat.org/education/gaise/collegeupdate/GAISE2016_DRAFT.pdf (revised GAISE College report)
+- http://www.amstat.org/education/gaise/ (revised GAISE College report)
+- https://arxiv.org/abs/1705.09530 (commentary on revised GAISE College report)
 - http://www.amstat.org/education/resourcesforundergradteachers.cfm
 - http://www.amstat.org/education/pdfs/Resources-for-Teaching-an-Intro-Stats-Course.pdf
 - http://community.amstat.org/stats101/home (Stats 101 examples)
