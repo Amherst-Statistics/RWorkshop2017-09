@@ -13,12 +13,12 @@ R is a freely available language and environment for statistical computing and g
 INSTRUCTOR: Nicholas Horton is a Professor of Statistics at Amherst College, with methodologic research interests in longitudinal regression models and missing data methods and applications in psychiatric epidemiology and substance abuse research. He received his doctorate in Biostatistics (with minors in Psychosocial Comorbidity and Theoretical Statistics) from the Harvard School of Public Health in 1999. Dr. Horton has co-authored more than 150 papers in the statistical methodology, behavioral research, and health services research literature, as well as a series of books on statistical computing and data science in R. He is an accredited statistician, a Fellow of the American Statistical Association, former member of the ASA Board of Directors, a member of the workgroup that revised the GAISE College Report, and past-chair of the ASA's Section on Statistical Education.
 
 Location: Holy Cross, Worcester, MA 
-Fees: Registration includes computer/software access and materials. 
+Fees: Registration includes refreshments, lunch, computer/software access, and materials. 
 - Non-Chapter Members - $60 
-- Boston ASA Chapter Members - $35 
+- Boston ASA Chapter Members - $30 
 - K-12 and Two-Year College Teachers - $20 
 - Students - $20 
-- Holy Cross Faculty/Staff - Free 
+- Holy Cross Faculty/Staff - Free (limited numbers available: you must pre-register)
 
 REGISTRATION LINK TBD
 
@@ -47,23 +47,26 @@ TBD
 
 ### Laptops
 
-You'll be working on your own laptops: please be sure to bring it and power cord (we'll want to ensure that every pair of participants has a working laptop).
+You'll be working on your own laptops: please be sure to bring one and a power cord (we'll want to ensure that every pair of participants has a working laptop).
 
 ### Shared RStudio server
 
-You will all receive login and password information for the shared RStudio server: please let me know if you didn't receive this.
+Registrants will receive login and password information for the shared RStudio server.
 
 
 ## Schedule
 
 - 9:45-10:00am gather (room TBD)
-- 10:00-10:30pm introductions and welcome
-- 10:30-12:00pm Less Volume, More Creativity
+- 10:00-10:30am introductions and welcome
+- 10:30-10:45am break
+- 10:45-12:00pm Less Volume, More Creativity
 - noon-1pm lunch
 - 1:00-2:00pm First steps on day 1
-- 2:00-3:00pm sample activities and assessments
+- 2:00-2:45pm sample activities and assessments
+- 2:45-3:00pm break
 - 3:00-3:15pm More on RStudio and resources
-- 3:15-4:00pm Closing thoughts and next steps
+- 3:15-3:30pm A glimpse of Shiny
+- 3:30-4:00pm Closing thoughts and next steps
 
 ## Resources
 
