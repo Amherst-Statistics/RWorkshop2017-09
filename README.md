@@ -20,30 +20,28 @@ Fees: Registration includes refreshments, lunch, computer/software access, and m
 - Students - $20 
 - Holy Cross Faculty/Staff - Free (limited numbers available: you must pre-register)
 
-REGISTRATION LINK TBD
+Click here to register: https://www.eventbrite.com/e/workshop-on-teaching-statistics-using-r-and-rstudio-tickets-35251553345
 
 REGISTRATION 
 - Space is limited - You MUST pre-register by email to attend 
 - Registration is not complete until payment has been received 
-- REGISTRATION CLOSES THURSDAY, AUGUST 31st
+- Registration CLOSES Tuesday, September 5th
 
 Please contact nhorton@amherst.edu for more information.
 
 
 
-## Registration
-
-To be updated in June, 2017
-
 ## Logistics
+
+TBA
 
 ### Location
 
-TBD at Holy Cross
+TBA at Holy Cross
 
 ### Parking
 
-TBD
+TBA
 
 ### Laptops
 
