@@ -94,9 +94,11 @@ Registrants will receive login and password information for the shared RStudio s
 ### Thinking with Data
 
 - http://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283 (Thinking with data)
-- http://www.amherst.edu/~nhorton/precursors (developing precursors to "Thinking with Data")
+- http://nhorton.people.amherst.edu/precursors (developing precursors to "Thinking with Data")
 
 ### RStudio servers
 
 - http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/
 - https://www.causeweb.org/cause/ecots/ecots16/breakouts/7
+
+Last updated August 27, 2017
