@@ -56,13 +56,13 @@ Registrants will receive login and password information for the shared RStudio s
 
 - 9:45-10:00am gather (room TBD)
 - 10:00-10:30am introductions and welcome
-- 10:30-10:45am break
-- 10:45-12:00pm Less Volume, More Creativity
+- 10:30-12:00pm Less Volume, More Creativity
 - noon-1pm lunch
 - 1:00-2:00pm First steps on day 1
 - 2:00-2:45pm sample activities and assessments
 - 2:45-3:00pm break
-- 3:00-3:15pm More on RStudio and resources
+- 3:00-3:15pm More on RStudio, the tidyverse, and related resources (`shiny::runGitHub("shiny_apps", "bborgesr", subdir = "dataOp"`)
+)
 - 3:15-3:30pm A glimpse of Shiny
 - 3:30-4:00pm Closing thoughts and next steps
 
