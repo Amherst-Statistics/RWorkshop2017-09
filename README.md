@@ -101,4 +101,8 @@ Registrants will receive login and password information for the shared RStudio s
 - http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/
 - https://www.causeweb.org/cause/ecots/ecots16/breakouts/7
 
+### BCASA
+
+- https://higherlogicdownload.s3.amazonaws.com/AMSTAT/fde9e4ce-00b7-438e-bbdc-55441ba3aeb5/UploadedImages/Newsletters/BCASA%20Newsletter%20Sept2017%20draft20170830.pdf
+
 Last updated August 27, 2017
