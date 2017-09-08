@@ -8,9 +8,11 @@ The workshop is sponsored by the Holy Cross Department of Mathematics and Statis
 #### Nicholas Horton, Amherst College
 #### Saturday, September 9th: 9:45am-4:00pm
 
-R is a freely available language and environment for statistical computing and graphics that has become popular in academia and in many industries. This workshop will introduce participants to teaching applied statistics courses using computing in an integrated way. The presenter has been using R and RStudio to teach statistics to undergraduates at all levels for the last decade and will share his approach and favorite examples. Topics will include workflow in the RStudio environment, providing novices with a powerful but manageable set of tools, simple data wrangling, data visualization, and basic statistical inference using R. Much of this "Less Volume, More Creativity" approach will be facilitated using the mosaic package. The workshop is designed to be accessible to those with little or no experience with R and is intended to provide participants with skills, examples, and resources that they can use in their own teaching.
+R is a freely available language and environment for statistical computing and graphics that has become popular in academia and in many industries. This workshop will introduce participants to teaching applied statistics courses using computing in an integrated way. The presenter has been using R and RStudio to teach statistics to undergraduates at all levels for the last decade and will share his approach and favorite examples. Topics will include workflow in the RStudio environment, providing novices with a powerful but manageable set of tools, simple data wrangling, data visualization, and basic statistical inference using R. 
 
-INSTRUCTOR: Nicholas Horton is a Professor of Statistics at Amherst College, with methodologic research interests in longitudinal regression models and missing data methods and applications in psychiatric epidemiology and substance abuse research. He received his doctorate in Biostatistics (with minors in Psychosocial Comorbidity and Theoretical Statistics) from the Harvard School of Public Health in 1999. Dr. Horton has co-authored more than 150 papers in the statistical methodology, behavioral research, and health services research literature, as well as a series of books on statistical computing and data science in R. He is an accredited statistician, a Fellow of the American Statistical Association, former member of the ASA Board of Directors, a member of the workgroup that revised the GAISE College Report, and past-chair of the ASA's Section on Statistical Education.
+Much of this "Less Volume, More Creativity" approach will be facilitated using the mosaic package. The workshop is designed to be accessible to those with little or no experience with R and is intended to provide participants with skills, examples, and resources that they can use in their own teaching.
+
+INSTRUCTOR: Nicholas Horton is a Professor of Statistics at Amherst College, with methodologic research interests in longitudinal regression models and missing data methods and applications in psychiatric epidemiology and substance abuse research. He received his doctorate in Biostatistics (with minors in Psychosocial Comorbidity and Theoretical Statistics) from the Harvard School of Public Health in 1999. Dr. Horton has co-authored more than 160 papers in the statistical methodology, behavioral research, and health services research literature, as well as a series of books on statistical computing and data science in R. He is an accredited statistician, a Fellow of the American Statistical Association, former member of the ASA Board of Directors, a member of the workgroup that revised the GAISE College Report, recipient of the Sherrerd, Waller, Hogg, and Warde teaching awards, and past-chair of the ASA's Section on Statistical Education.
 
 Location: Holy Cross, Worcester, MA 
 Fees: Registration includes refreshments, lunch, computer/software access, and materials. 
@@ -33,15 +35,9 @@ Please contact nhorton@amherst.edu for more information.
 
 ## Logistics
 
-TBA
+### Location and Parking
 
-### Location
-
-TBA at Holy Cross
-
-### Parking
-
-TBA
+TBA at Holy Cross: email will be sent out to participants.
 
 ### Laptops
 
@@ -55,18 +51,47 @@ Registrants will receive login and password information for the shared RStudio s
 ## Schedule
 
 - 9:45-10:00am gather (room TBD)
-- 10:00-10:30am introductions and welcome
-- 10:30-12:00pm Less Volume, More Creativity
-- noon-1pm lunch
-- 1:00-2:00pm First steps on day 1
-- 2:00-2:45pm sample activities and assessments
-- 2:45-3:00pm break
-- 3:00-3:15pm More on RStudio, the tidyverse, and related resources (`shiny::runGitHub("shiny_apps", "bborgesr", subdir = "dataOp"`)
-)
-- 3:15-3:30pm A glimpse of Shiny
-- 3:30-4:00pm Closing thoughts and next steps
+- 10:00-10:15am introductions and welcome
+- 10:15-11:30am Less Volume, More Creativity 
+
+  1. http://cvc.mosaic-web.org/Summer2017/Learn/LessVolume/LessVolume.html#1
+  2. https://dtkaplan.shinyapps.io/USBirths/
+  3. https://dtkaplan.shinyapps.io/Plotting_with_formulas/
+
+- 11:30am-noon [R Markdown](https://prezi.com/vq6l5yqpnqma/intro-to-r-markdown-cvc-2015)
+- noon-1pm lunch (with Q&A time)
+- 1:00-1:45pm First steps on day 1
+
+  1. `mplot(HELPrct)`
+  2. http://nhorton.people.amherst.edu/workshop/dayone.Rmd
+
+- 1:45-2:30pm sample activities and assessments
+
+  1. Roadless USA
+  2. cars.com
+  3. RQuiz
+
+- 2:30-2:45pm break
+
+- 2:45-3:15pm More on RStudio, the tidyverse, and related resources 
+
+  1. [Data Wrangling cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+  2. http://nhorton.people.amherst.edu/workshop/dplyr-tutorial.Rmd
+
+- 3:15-3:30pm A glimpse of leaflet, learnr, and Shiny
+- 3:30-3:45pm Closing thoughts and next steps
+
+## Feedback
+
+We’ll use this Google Doc to record your questions and comments and to provide responses. Feel free to edit it at anytime before, during, or (shortly) after the workshop.
+
+- [https://docs.google.com/document/d/1D65bQS--pmj6Cu9VAkjvmlIGe-yk2d0xGZfRknkysrA/edit?usp=sharing](Google Doc)
 
 ## Resources
+
+### XX
+
+- `shiny::runGitHub("shiny_apps", "bborgesr", subdir = "dataOp")`
 
 ### Workshop related
 
@@ -105,4 +130,4 @@ Registrants will receive login and password information for the shared RStudio s
 
 - https://higherlogicdownload.s3.amazonaws.com/AMSTAT/fde9e4ce-00b7-438e-bbdc-55441ba3aeb5/UploadedImages/Newsletters/BCASA%20Newsletter%20Sept2017%20draft20170830.pdf
 
-Last updated August 27, 2017
+Last updated September 6, 2017
