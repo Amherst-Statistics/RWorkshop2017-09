@@ -37,7 +37,7 @@ Please contact nhorton@amherst.edu for more information.
 
 ### Location and Parking
 
-TBA at Holy Cross: email will be sent out to participants.
+TBA at Holy Cross: email was sent out to participants.
 
 ### Laptops
 
@@ -79,23 +79,20 @@ Registrants will receive login and password information for the shared RStudio s
   2. http://nhorton.people.amherst.edu/workshop/dplyr-tutorial.Rmd
   3. `shiny::runGitHub("shiny_apps", "bborgesr", subdir = "dataOp")`
 
-- 3:15-3:30pm A glimpse of leaflet, learnr, and Shiny
-- 3:30-3:45pm Closing thoughts and next steps
+- 3:15-3:30pm A glimpse of leaflet ([leaflet.Rmd](https://nhorton.people.amherst.edu/workshop/leaflet.Rmd]), [learnr](https://rstudio.github.io/learnr), and [Shiny gallery](https://shiny.rstudio.com/gallery)
+- 3:30-3:45pm Closing thoughts, other resources, final review of Q&A document, and next steps
 
 ## Feedback
 
 We’ll use this Google Doc to record your questions and comments and to provide responses. Feel free to edit it at anytime before, during, or (shortly) after the workshop.
 
-- [https://docs.google.com/document/d/1D65bQS--pmj6Cu9VAkjvmlIGe-yk2d0xGZfRknkysrA/edit?usp=sharing](Google Doc)
+- [Google Doc](https://docs.google.com/document/d/1D65bQS--pmj6Cu9VAkjvmlIGe-yk2d0xGZfRknkysrA/edit?usp=sharing)
 
 ## Resources
 
-### XX
-
-
 ### Workshop related
 
-- http://www.github.com/Amherst-Statistics/RWorkshop2017-07 (this page)
+- http://www.github.com/Amherst-Statistics/RWorkshop2017-09 (this page)
 - https://nhorton.people.amherst.edu/workshop (workshop materials)
 - http://nhorton.people.amherst.edu/rstudio (student resources)
 
