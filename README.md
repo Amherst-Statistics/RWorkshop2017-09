@@ -67,9 +67,9 @@ Registrants will receive login and password information for the shared RStudio s
 
 - 1:45-2:30pm sample activities and assessments
 
-  1. Roadless USA
-  2. cars.com
-  3. RQuiz
+  1. Roadless USA (`source("http://nhorton.people.amherst.edu/workshop/roadless-setup.R"`)
+  2. cars.com 
+  3. [RQuiz study guide](https://nhorton.people.amherst.edu/workshop/R-guide.pdf)
 
 - 2:30-2:45pm break
 
@@ -77,6 +77,7 @@ Registrants will receive login and password information for the shared RStudio s
 
   1. [Data Wrangling cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
   2. http://nhorton.people.amherst.edu/workshop/dplyr-tutorial.Rmd
+  3. `shiny::runGitHub("shiny_apps", "bborgesr", subdir = "dataOp")`
 
 - 3:15-3:30pm A glimpse of leaflet, learnr, and Shiny
 - 3:30-3:45pm Closing thoughts and next steps
@@ -91,7 +92,6 @@ We’ll use this Google Doc to record your questions and comments and to provide
 
 ### XX
 
-- `shiny::runGitHub("shiny_apps", "bborgesr", subdir = "dataOp")`
 
 ### Workshop related
 
