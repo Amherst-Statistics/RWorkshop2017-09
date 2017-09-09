@@ -133,4 +133,4 @@ We’ll use this Google Doc to record your questions and comments and to provide
 
 - https://higherlogicdownload.s3.amazonaws.com/AMSTAT/fde9e4ce-00b7-438e-bbdc-55441ba3aeb5/UploadedImages/Newsletters/BCASA%20Newsletter%20Sept2017%20draft20170830.pdf
 
-Last updated September 6, 2017
+Last updated September 8, 2017
