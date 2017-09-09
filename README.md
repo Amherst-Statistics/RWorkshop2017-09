@@ -61,6 +61,9 @@ The server and workshop folder will be available until Friday, September 15th: p
   3. https://dtkaplan.shinyapps.io/Plotting_with_formulas/
 
 - 11:30am-noon [R Markdown](https://prezi.com/vq6l5yqpnqma/intro-to-r-markdown-cvc-2015)
+  1. [hw1.Rmd](https://nhorton.people.amherst.edu/workshop/hw1.Rmd)
+  2. [cars.Rmd](https://nhorton.people.amherst.edu/workshop/cars2.Rmd)
+  3. [DataI.pdf](https://nhorton.people.amherst.edu/workshop/dataI.pdf)
 - noon-1pm lunch (with Q&A time)
 - 1:00-1:45pm First steps on day 1
 
