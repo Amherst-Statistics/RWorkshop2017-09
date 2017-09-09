@@ -45,7 +45,9 @@ You'll be working on your own laptops: please be sure to bring one and a power c
 
 ### Shared RStudio server
 
-Registrants will receive login and password information for the shared RStudio server.
+Registrants will receive login and password information for the shared RStudio server (connect to the following URL with a browser: 165.227.110.194:8787).
+
+The server and workshop folder will be available until Friday, September 15th: please be sure to download any files that you would like to save.
 
 
 ## Schedule
@@ -133,4 +135,4 @@ We’ll use this Google Doc to record your questions and comments and to provide
 
 - https://higherlogicdownload.s3.amazonaws.com/AMSTAT/fde9e4ce-00b7-438e-bbdc-55441ba3aeb5/UploadedImages/Newsletters/BCASA%20Newsletter%20Sept2017%20draft20170830.pdf
 
-Last updated September 8, 2017
+Last updated September 9, 2017
