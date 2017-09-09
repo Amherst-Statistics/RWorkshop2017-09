@@ -76,8 +76,9 @@ Registrants will receive login and password information for the shared RStudio s
 - 2:45-3:15pm More on RStudio, the tidyverse, and related resources 
 
   1. [Data Wrangling cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
-  2. http://nhorton.people.amherst.edu/workshop/dplyr-tutorial.Rmd
-  3. `shiny::runGitHub("shiny_apps", "bborgesr", subdir = "dataOp")`
+  2. [DataI.pdf](https://nhorton.people.amherst.edu/workshop/dataI.pdf)
+  3. http://nhorton.people.amherst.edu/workshop/dplyr-tutorial.Rmd
+  4. `shiny::runGitHub("shiny_apps", "bborgesr", subdir = "dataOp")`
 
 - 3:15-3:30pm A glimpse of leaflet ([leaflet.Rmd](https://nhorton.people.amherst.edu/workshop/leaflet.Rmd]), [learnr](https://rstudio.github.io/learnr), and [Shiny gallery](https://shiny.rstudio.com/gallery)
 - 3:30-3:45pm Closing thoughts, other resources, final review of Q&A document, and next steps
@@ -96,9 +97,14 @@ We’ll use this Google Doc to record your questions and comments and to provide
 - https://nhorton.people.amherst.edu/workshop (workshop materials)
 - http://nhorton.people.amherst.edu/rstudio (student resources)
 
-### Textbook related
+### Textbooks
 
 - http://mdsr-book.github.io/ (Modern Data Science with R)
+- http://nhorton.people.amherst.edu/r2/ (Using R for Data Management, Statistical Analysis, and Graphics)
+- http://nhorton.people.amherst.edu/sasr2/ (SAS and R: Data Management, Statistical Analysis, and Graphics)
+
+### Textbooks with illustrated examples in R
+
 - https://cran.r-project.org/web/packages/mosaic/ (mosaic vignettes and textbooks)
 - https://nhorton.people.amherst.edu/sdm4 (De Veaux, Velleman, and Bock Stats Data and Models)
 - https://nhorton.people.amherst.edu/is4 (De Veaux, Velleman, and Bock Stats Intro Stats)
